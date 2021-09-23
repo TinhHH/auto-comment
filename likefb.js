@@ -4,8 +4,8 @@ const DELAY = 5000;
 
 //config Facebook account
 const account = {
-  username: "tinhtinhh4@gmail.com",
-  password: "anhtinh999",
+  username: "",
+  password: "",
 };
 const randomComments = ["❤❤", "💖💖"];
 
